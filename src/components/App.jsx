@@ -3,10 +3,10 @@ import { Statistics } from "./Statistics/Statistics";
 import { FriendList } from "./FriendList/FriendList";
 import { TransactionHistory } from "./TransactionHistory/TransactionHistory";
 
-import user from '../files from task/user';
-import data from '../files from task/data';
-import friends from '../files from task/friends';
-import transactions from '../files from task/transactions';
+import user from '../Data/user';
+import data from '../Data/data';
+import friends from '../Data/friends';
+import transactions from '../Data/transactions';
 	
 
 	export const App = () => {
